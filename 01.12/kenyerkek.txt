@@ -1,0 +1,14 @@
+Sütési mód;Gluténmentes;Ár;Szeletelt;Tömeg;Szénhidrát tartalom (g);Típus
+Házias jellegű;igen;200;nem;1237;2312;Lopott
+Kemencés;nem;2700;igen;3;75;Fehér
+Olajban mert szeretem ha fáj;nem;1000000;nem;5;1000;Fehér
+Nagyi titka;nem;3500;igen;4;400;Szőrös
+kazán;nem;500000;nem;2;0;Tigris kenyér (már a kenyér teszt megmondta nekem)
+grillezett;igen;1000000;igen;1;12;kovászos
+Sütőben;igen;3000;nem;1;40;Teljes kiőrlésű barna kenyér
+Két kézzel;nem;10000;igen;1;70;Kovászos
+kemencés;nem;4700;nem;1;493;Naan
+Kemencés;nem;265;nem;25;56;Bagett
+Aranyozott kemence;igen;2000;nem;3;110;Teljeskörlésü
+Mikró;nem;1000;nem;2;500;Fideszes (Burgonyás)
+Előmelegített sütőben 40 percig 185 Celsius fokon. ;nem;1700;nem;1;80;Házias

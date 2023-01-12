@@ -1,0 +1,5 @@
+Piri;8;4
+Lajos;10;5
+Zsuzsi;13;1
+Géza;9;3
+Benő;9;2
